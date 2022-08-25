@@ -1,3 +1,6 @@
+/* This is query to answer the three questions highlighted in the README section */
+--  The data is for two hotels over a three year period from 2018-2020  --
+
 With
 Hotels as 
 (
